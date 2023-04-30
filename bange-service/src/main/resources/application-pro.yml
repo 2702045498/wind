@@ -1,0 +1,17 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /wind
+#person:
+#  id: 1
+#  name: wenwen
+#  boss: true
+#  birthday: 2023/01/12
+#  maps: {k1:v1,k2:v2}
+#  list:
+#    - zhangsan
+#    - lisi
+#    - 赵六
+#  dog:
+#    name: xiaohei
+#    age: 2

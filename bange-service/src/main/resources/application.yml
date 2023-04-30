@@ -1,0 +1,25 @@
+bange:
+  # 名称
+  name: Bange
+  # 版本
+  version: 1.0.0
+server:
+  port: 8080
+  tomcat:
+    uri-encoding: UTF-8
+#person:
+#  id: 1
+#  name: wenwen
+#  boss: true
+#  birthday: 2023/01/12
+#  maps: {k1:v1,k2:v2}
+#  list:
+#    - zhangsan
+#    - lisi
+#    - 赵六
+#  dog:
+#    name: xiaohei
+#    age: 2
+spring:
+  profiles:
+    active: dev
